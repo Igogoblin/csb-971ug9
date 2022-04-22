@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://igogoblin.github.io/csb-971ug9/static/js/main.81ae859e.chunk.js",
+    "main.js.map": "https://igogoblin.github.io/csb-971ug9/static/js/main.81ae859e.chunk.js.map",
+    "runtime-main.js": "https://igogoblin.github.io/csb-971ug9/static/js/runtime-main.19f3f3ee.js",
+    "runtime-main.js.map": "https://igogoblin.github.io/csb-971ug9/static/js/runtime-main.19f3f3ee.js.map",
+    "static/js/2.6048ba56.chunk.js": "https://igogoblin.github.io/csb-971ug9/static/js/2.6048ba56.chunk.js",
+    "static/js/2.6048ba56.chunk.js.map": "https://igogoblin.github.io/csb-971ug9/static/js/2.6048ba56.chunk.js.map",
+    "index.html": "https://igogoblin.github.io/csb-971ug9/index.html",
+    "static/js/2.6048ba56.chunk.js.LICENSE.txt": "https://igogoblin.github.io/csb-971ug9/static/js/2.6048ba56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19f3f3ee.js",
+    "static/js/2.6048ba56.chunk.js",
+    "static/js/main.81ae859e.chunk.js"
+  ]
+}
